@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"int",
+				"intervalId"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"ta",
+				"tagName"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"unf",
+				"unfinishTask"
+			],
+			[
+				"finishedta",
+				"finishedTasks"
+			],
+			[
+				"crea",
+				"createNewElement"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fi",
+				"finishedTasksArr"
+			],
+			[
+				"unfini",
+				"unfinishedTasksArr"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"fini",
+				"finishedTasks"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"lis",
+				"listItem"
+			],
+			[
+				"inne",
+				"innerText"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"ts",
+				"this"
+			],
+			[
+				"ed",
+				"editButton"
+			],
+			[
+				"del",
+				"deleteTask"
+			],
+			[
+				"o",
+				"onclick"
+			],
+			[
+				"edit",
+				"editButton"
+			],
+			[
+				"finish",
+				"finishTask"
+			],
+			[
+				"add",
+				"addButton"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"unfi",
+				"unfinishedTasks"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"cre",
+				"createNewElement"
+			],
+			[
+				"cr",
+				"createNewElement"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"on",
+				"onSelect"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"hed",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 636,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"control package",
+				"Package Control: Add Channel"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Sublime Text",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/sublime/Front-end/3rd/css/style.css",
+		"/F/sublime/Front-end/3rd/index.html",
+		"/F/sublime/solo/kitchen/layout/index.html",
+		"/C/Users/Base/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Base/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/F/sublime/Front-end/two-bytes/web/index.html",
+		"/F/sublime/Front-end/two-bytes/web/js/main.js",
+		"/F/sublime/Front-end/two-bytes/src/scss/style.scss",
+		"/F/sublime/Front-end/3rd/js/script.js",
+		"/F/sublime/Front-end/two-bytes/web/js/libs/libs.js",
+		"/F/sublime/Front-end/two-bytes/src/js/main.js",
+		"/F/sublime/Front-end/5th.gulp/web/js/main.js",
+		"/F/sublime/Front-end/gulp.js/web/js/main.js",
+		"/F/sublime/solo/kitchen/444/index.html",
+		"/F/sublime/solo/Startup/index.html",
+		"/F/sublime/solo/kitchen/layout/css/main.css",
+		"/F/sublime/solo/kitchen/444/js/main.js",
+		"/F/sublime/solo/Startup/css/style.css",
+		"/F/sublime/Front-end/two-bytes/web/css/style.css",
+		"/F/sublime/solo/kitchen/444/css/main.css",
+		"/F/sublime/solo/Startup/css/main.css",
+		"/F/sublime/solo/kitchen/byhands/css/main.css",
+		"/F/sublime/solo/kitchen/byhands/index.html",
+		"/F/sublime/Front-end/2nd/index.html",
+		"/F/sublime/Front-end/2nd/css/style.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
