@@ -14,15 +14,11 @@
   grid-template-columns: 2fr 10fr;
 
 }
-
-
-.nav  {
-   grid-area:n;
-   background-color: green;
-}
-
-.content  {
+.app-wrappet-content{
   grid-area:c;
   background-color: rgb(255, 154, 21);
 }
+
+
+
 
